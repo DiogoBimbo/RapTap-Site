@@ -1,0 +1,116 @@
+.banner{
+    background-image: url(/images/backgroundBlur.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.menu-nav{
+    transition: 0.5s;
+    background-color: #121212;
+}
+
+.bg-transparency{
+    transition: 0.5s;
+    background-color: #00000000;
+}
+
+.baixarItch{
+    border: 2px solid #5c5c5c;
+    border-radius: 5px;
+}
+
+.baixarItch:hover{
+    border: 2px solid #ffffff;
+    transition: 0.5s;
+}
+
+.redes-sociais{
+    width: 80px;
+    border-radius: 100%;
+}
+
+.redes-sociais:hover{
+    border-radius: 100%;
+    background-color: #ffffff;
+    transition: 0.3s;
+}
+
+.direitos{
+    font-family: Lato;
+    color: white;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.titulo-sobre{
+    font-family: Lato;
+    color: white;
+    font-size: 1.75rem;
+    font-weight: 800;
+}
+
+.texto{
+    font-family: Lato;
+    color: white;
+    font-size: 1rem;
+    text-align: left;
+}
+
+#jamMusic{
+    font-family: Lato;
+    color: white;
+    font-size: 2.25rem;
+    font-weight: 800;
+}
+
+#nawatTitulo{
+    font-family: Lato;
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    margin-top: -50px;
+}
+
+.menu-botao{
+    font-family: Lato;
+    color: white;
+    font-size: 1.125rem;
+    font-weight: 700;
+    padding-right: 35px;
+}
+
+#fotoNawat{
+    background-color: #04B2D9;
+    border: none;
+    color: white;
+    font-family: Lato;
+    font-size: 1.125rem;
+}
+
+.cargoNawat{
+    font-family: Lato;
+    font-weight: 800;
+    font-size: 1.25rem;
+}
+
+.img-borda{
+    border-radius: 5px;
+}
+
+.negativa{
+    margin-top: -160px;
+}
+
+.ver-mais{
+    width: 4rem;
+}
+
+.ver-mais:hover{
+    transform: translateY(8px);
+    transition: 0.3s;
+}
+
+
